@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TabSwitcher_revisited", "TabSwitcher_revisited\TabSwitcher_revisited.vcproj", "{37D6D5DB-BF9E-40C2-BA8B-1739EF90EB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D6D5DB-BF9E-40C2-BA8B-1739EF90EB47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37D6D5DB-BF9E-40C2-BA8B-1739EF90EB47}.Debug|Win32.Build.0 = Debug|Win32
+		{37D6D5DB-BF9E-40C2-BA8B-1739EF90EB47}.Release|Win32.ActiveCfg = Release|Win32
+		{37D6D5DB-BF9E-40C2-BA8B-1739EF90EB47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
