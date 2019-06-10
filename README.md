@@ -1,7 +1,7 @@
 # Tab-Switcher
 Buttons to make switching between 2 tabs easier (especially for usb tablet)
 
-It's a modal overlay with buttons and a backboard. You can click on the backboard and drag it to whichever position on your desktop that you would like. Each button (blue and red) switches to the set window for that button. Can also use \[DELETE] key to vascillate between set windows, granted that one of the set windows is currently in focus.
+It's a modal overlay with buttons and a backboard. You can click on the backboard and drag it to whichever position on your desktop that you would like. Each button (blue and red) switches to the set window for that button. Can also use the \[DELETE] key to vascillate between set windows, granted that one of the set windows is currently in focus.
 
 Recommended use: quicker, easier switching between a graphics program (PAINT.NET, Manga Studio EX, Photoshop) and another window (such as an internet browser full of reference pictures). 
 
