@@ -8,6 +8,7 @@ Recommended use: quicker, easier switching between a graphics program (PAINT.NET
 I made this because when I clicked on the window in the taskbar, I would accidentally raise the cursor due to using a tablet & pen, but this program makes it easier with a small, portable control that uses simple buttons that WON'T slide and override my click with offering recent programs and to pin the program to the taskbar.
 
 How to Use:
+
 \[Method 1]
 1. Click one of the buttons (either blue or red, whichever you want to set to a window)
 2. Press space while the Tab Switcher has focus (make sure it has focus; if it already had a registered window then it will open that window and give that window focus)
